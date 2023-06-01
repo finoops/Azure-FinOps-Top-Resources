@@ -7,3 +7,12 @@ Resource | Type | Description
 [Cost CLI](https://github.com/mivano/azure-cost-cli) | CLI tool | A CLI for the Azure Cost Management APIs
 [Azure Cost Estimator](https://github.com/TheCloudTheory/arm-estimator) | CLI / CICD tool | Uses the Azure Pricing Calculator with your ARM template to estimate the monthly cost
 [Infracost](https://github.com/infracost/infracost) | | Terraform price estimating tool
+
+
+A summary of the FinOps repositories in this organisation.
+
+Repo | FinOps Capability
+---- | -----------------
+[Azure-Sandbox-Subscription-Nightly-Cleanup](https://github.com/finoops/Azure-Sandbox-Subscription-Nightly-Cleanup) | Workload Management & Automation
+[aks-cluster-changestate](https://github.com/finoops/aks-cluster-changestate) | Workload Management & Automation
+[opencost-on-aks](https://github.com/finoops/opencost-on-aks) | Data Analysis and Showback
