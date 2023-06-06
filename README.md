@@ -12,8 +12,8 @@ Resource | Type | Description
 
 A summary of the FinOps repositories in this organisation.
 
-Repo | FinOps Capability
----- | -----------------
-[Azure-Sandbox-Subscription-Nightly-Cleanup](https://github.com/finoops/Azure-Sandbox-Subscription-Nightly-Cleanup) | Workload Management & Automation
-[aks-cluster-changestate](https://github.com/finoops/aks-cluster-changestate) | Workload Management & Automation
-[opencost-on-aks](https://github.com/finoops/opencost-on-aks) | Data Analysis and Showback
+Repo | FinOps Capability | Azure Service
+---- | ----------------- | -------------
+[Azure-Sandbox-Subscription-Nightly-Cleanup](https://github.com/finoops/Azure-Sandbox-Subscription-Nightly-Cleanup) | Workload Management & Automation | All
+[aks-cluster-changestate](https://github.com/finoops/aks-cluster-changestate) | Workload Management & Automation | AKS
+[opencost-on-aks](https://github.com/finoops/opencost-on-aks) | Data Analysis and Showback | AKS
