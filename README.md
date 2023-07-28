@@ -8,7 +8,7 @@ Resource | Type | Description
 [Azure Cost Estimator](https://github.com/TheCloudTheory/arm-estimator) | CLI / CICD tool | Uses the Azure Pricing Calculator with your ARM template to estimate the monthly cost
 [Infracost](https://github.com/infracost/infracost) | | Terraform price estimating tool
 [FinOps with Azure](https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/) | eBook | A great guide of FinOps practices using standard Azure tools
-
+[Managing Costs in Azure](https://clouddamcdnprodep.azureedge.net/gdc/gdc3ekuPg/original) | eBook | An executive summary of techniques to tame your monthly Azure infrastructure bill
 
 A summary of the FinOps repositories in this organisation.
 
